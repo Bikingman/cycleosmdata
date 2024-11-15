@@ -2,6 +2,7 @@
 from cycleosm.bikeosm import BikeOSM
 output_path = r'/Users/danielpatterson/Documents/GitHub/ExtractOSM/src/output'
 # state_osm_urls = {'District of Columbia': 'http://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf'}
+# cambridge = {'Cambridgeshire': 'https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf'}
 
 
 state_osm_urls = {
