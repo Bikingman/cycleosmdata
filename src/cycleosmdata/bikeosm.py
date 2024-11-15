@@ -17,8 +17,8 @@ import os
 import geopandas as gpd
 from typing import Dict, Optional
 import logging
-from cycleosm.pbfdownloader import PBFDownloader
-from cycleosm.utils import Utils 
+from cycleosmdata.pbfdownloader import PBFDownloader
+from cycleosmdata.utils import Utils 
 
 wkbfab = osmium.geom.WKBFactory()
 

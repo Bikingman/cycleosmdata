@@ -9,12 +9,12 @@ requires = [
 build-backend = "hatchling.build"
 
 [project] 
-name = "cycleosm"
+name = "cycleosmdata"
 version = "0.0.2.4"
 description = "A small package to download structured bike infrastructure data from Open Street Map (OSM)."
 readme = "README.md"
 authors = [
-  { name="Daniel Patterson", email="daniel.patterson87@gmail.com" },
+  { name="Daniel Patterson", email="dpatterson@geoinformatics.studio" },
 ]
 requires-python = ">=3.7"
 classifiers = [

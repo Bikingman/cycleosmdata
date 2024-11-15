@@ -2,7 +2,7 @@ import osmium
 import os
 import wget
 from typing import Dict
-from cycleosm.utils import Utils
+from cycleosmdata.utils import Utils
 wkbfab = osmium.geom.WKBFactory()
 
 class PBFDownloader:
