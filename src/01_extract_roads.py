@@ -3,7 +3,7 @@ import os
 import geopandas as gpd
 import pandas as pd
 output_path = r'/Users/danielpatterson/Documents/output'
-values = ['Bike Lane', 'Buffered Bike Lane', 'Protected Bike Lane', 'Shared Use Path', 'Cycleway']
+
 file_BK = gpd.GeoDataFrame()
 
 files = [
