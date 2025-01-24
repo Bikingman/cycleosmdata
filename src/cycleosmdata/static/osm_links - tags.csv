@@ -1,5 +1,8 @@
 Unknown,Unknown
-dismount, Unknown
+dismount,Unknown
+shar,Unknown
+5,Unknown
+1,Unknown
 proposed,Proposed
 crossing,Crossing
 asl,Advanced Stop Line
@@ -10,6 +13,7 @@ share_busway,Shared Road
 on_street,Shared Road
 shared_parking_lane,Shared Road
 shared,Shared Road
+path,Offroad Path
 lane,Bike Lane
 lanes,Bike Lane
 opposite_lane,Bike Lane
@@ -23,10 +27,12 @@ left,Bike Lane
 construction,Bike Lane
 buffer,Buffered Bike Lane
 buffered_lane,Buffered Bike Lane
+sidepath,Sidepath
+use_sidepath,Sidepath
 track,Protected Bike Lane
 opposite_track,Protected Bike Lane
 lane=exlusive,Protected Bike Lane
 lane=exclusive,Protected Bike Lane
 protected lane,Protected Bike Lane
 separate,Shared Use Path
-cycleway,Shared Use Path
+cycleway,Cycleway
