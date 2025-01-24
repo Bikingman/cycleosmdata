@@ -12,3 +12,9 @@ link
 closed_lane
 unmarked_lane
 -1
+path
+sidepath
+use_sidepath
+shar
+1
+5

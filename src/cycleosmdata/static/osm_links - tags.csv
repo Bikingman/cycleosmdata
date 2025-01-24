@@ -17,8 +17,6 @@ opposite,Bike Lane
 designated,Bike Lane
 both,Bike Lane
 yes,Bike Lane
-1,Bike Lane
-5,Bike Lane
 right,Bike Lane
 right lane,Bike Lane
 left,Bike Lane
@@ -31,8 +29,4 @@ lane=exlusive,Protected Bike Lane
 lane=exclusive,Protected Bike Lane
 protected lane,Protected Bike Lane
 separate,Shared Use Path
-sidepath,Shared Use Path
-path,Shared Use Path
-use_sidepath,Shared Use Path
-shar,Shared Use Path
-cycleway,Cycleway
+cycleway,Shared Use Path
