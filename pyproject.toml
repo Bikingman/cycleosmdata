@@ -10,7 +10,7 @@ build-backend = "hatchling.build"
 
 [project] 
 name = "cycleosmdata"
-version = "0.0.2.5"
+version = "0.3"
 description = "A small package to download structured bike infrastructure data from Open Street Map (OSM)."
 readme = "README.md"
 authors = [
