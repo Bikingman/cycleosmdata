@@ -3,3 +3,8 @@ src/python/__pycache__/
 vars.txt
 bike_infrastrucure_data_usa.*
 dist/
+__pycache__
+data_results/
+analysis/
+.vscode
+.DS_Store
